@@ -1,11 +1,10 @@
-import Image from 'next/image';
 import React from 'react'
-import HeroImage from "../../public/Assets/images/Home/heroimage.png";
+import HeroImage from "../../public/Assets/images/Home/heroimage.svg";
 import location from "../../public/Assets/images/Home/Desktop/location.svg";
 import gitHub from "../../public/Assets/images/Home/Desktop/gitHub.svg";
 import xtwitter from "../../public/Assets/images/Home/Desktop/xtwitter.svg";
 import figma from "../../public/Assets/images/Home/Desktop/figma.svg";
-
+import Image from 'next/image';
 
 const Hero = () => {
     return (
@@ -23,8 +22,8 @@ const Hero = () => {
                             <div className="w-3 h-3 rounded-full bg-bghover"></div>&nbsp;&nbsp;&nbsp;&nbsp; <span className='text-contentc text-[16px] my-[8px] font-medium'>Available for new projects</span>
                         </div>
                         <div className="mt-[60px] flex items-center space-x-1">
-                            <a href="#"><Image src={gitHub} alt='img'/></a>
-                            <a href="#"><Image src={xtwitter} alt='img'/></a>  
+                            <a href="https://github.com/Mazahir-Hussain-malik"><Image src={gitHub} alt='img'/></a>
+                            <a href="https://twitter.com/MazahirAmeer"><Image src={xtwitter} alt='img'/></a>  
                             <a href="#"><Image src={figma} alt='img'/></a>
                         </div>
                     </div>

@@ -13,22 +13,22 @@ const Footer = () => {
                     <p className='text-contentc text-[20px] text-center px-[20px] my-6'>What&apos;s next? Feel free to reach out to me if you&apos;re looking for a developer, have a query, or simply want to connect.</p>
 
                     <div className="flex space-x-4 text-white items-center">
-                        <span className='sm:text-[25px] text-[18px]'><MdOutlineForwardToInbox /> </span> <p className='md:text-[35px] sm:text-[25px] text-[20px]'>kharmangi129@gmail</p> <span className='sm:text-[25px] text-[18px]'><TfiLayers /></span>
+                        <span className='sm:text-[25px] text-[18px]'><MdOutlineForwardToInbox /> </span> <p className='md:text-[35px] sm:text-[25px] text-[20px]'>mazahirdev747@gmail.com</p> <span className='sm:text-[25px] text-[18px]'><TfiLayers /></span>
 
                     </div>
                     <div className="flex space-x-4 text-white items-center">
-                        <span className='sm:text-[25px] text-[18px]'><FiPhoneCall /> </span> <p className='md:text-[35px] sm:text-[25px] text-[20px]'>+92 355 4229889</p> <span className='sm:text-[25px] text-[18px]'><TfiLayers /></span>
+                        <span className='sm:text-[25px] text-[18px]'><FiPhoneCall /> </span> <p className='md:text-[35px] sm:text-[25px] text-[20px]'>+92 355 4297500</p> <span className='sm:text-[25px] text-[18px]'><TfiLayers /></span>
                     </div>
                     <p className='text-base text-white my-8'>You may also find me on these platforms!</p>
                     <div className="text-white text-[20px] flex gap-[10px] my-4">
                         <span>
-                            <a target='_blank' href="https://github.com/MuhammadLatee"><FiGithub /></a>
+                            <a target='_blank' href="https://github.com/Mazahir-Hussain-malik"><FiGithub /></a>
                         </span>
                         <span>
-                            <a target='_blank' href="https://twitter.com/M_Latif129"><SlSocialTwitter /></a>
+                            <a target='_blank' href="https://twitter.com/MazahirAmeer"><SlSocialTwitter /></a>
                         </span>
                         <span>
-                            <a target='_blank' href="https://www.linkedin.com/in/muhammad-latif-b685a4249/"><FaLinkedin /></a>
+                            <a target='_blank' href="https://www.linkedin.com/in/mazahihussain/"><FaLinkedin /></a>
                         </span>
                     </div>
                 </div>

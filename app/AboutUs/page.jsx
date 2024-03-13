@@ -1,5 +1,5 @@
 import React from 'react'
-import mainImage from "../../public/Assets/images/Home/AboutUs.png"
+import mainImage from "../../public/Assets/images/Home/AboutUs.svg"
 import Image from 'next/image'
 const page = () => {
     return (
