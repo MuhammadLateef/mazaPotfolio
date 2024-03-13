@@ -13,8 +13,9 @@ const Hero = () => {
                 <div className="hero-content flex-col lg:flex-row-reverse">
                     <Image src={HeroImage} className="sm:max-w-sm max-w-[80%]" />
                     <div className=''>
-                        <h1 className="text-5xl font-bold text-heading">Hi, I&apos;m Mummhad Latif 👋</h1>
-                        <p className="text-contentc text-[16px] my-[8px] font-medium">I&apos;m a full stack developer (React.js & Node.js) with a focus on creating (and occasionally designing) exceptional digital experiences that are fast, accessible, visually appealing, and responsive. Even though I have been creating web applications for over 3 years, I still love it as if it was something new.</p>
+                        <h1 className="text-5xl font-bold text-heading">Hi, I&apos;m Mazahir Hussain 👋</h1>
+                        <p className="text-contentc text-[16px] my-[8px] font-medium">I&apos;have an 
+                        Experienced full stack developer proficient in JavaScript, Node.js, React.js, and Next.js. Skilled in blockchain development with expertise in Solidity programming and integrating smart contracts with web3 applications for decentralized solutions.</p>
                         <div className="mt-[60px] flex items-center text-contentc text-[16px] my-[8px] font-medium">
                             <Image  src={location} alt='img'/> &nbsp;&nbsp;<p>Gilgit, Pakistan</p>
                         </div>
